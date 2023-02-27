@@ -1,0 +1,15 @@
+/* version mobile*/
+
+:root {
+	font-size: 10px;
+}
+
+* {
+	z-index: 999;
+}
+
+/* Initialisation du style*/
+body {
+	background-color: black;
+}
+
